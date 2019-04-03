@@ -1,0 +1,1 @@
+This document describt how to use  oracle wallet manager 
